@@ -1,6 +1,0 @@
-{
-  "rootDirectory": "frontend/agentic-seek-front",
-  "installCommand": "npm install",
-  "buildCommand": "npm run build",
-  "outputDirectory": "build"
-}
